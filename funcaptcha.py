@@ -5,7 +5,7 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 from twocaptcha import TwoCaptcha
 
 config = {
-'apiKey':           '070d271ae9b87bcfdecff0d01ee6afae',
+'apiKey':           'YOUR_API_KEY',
 'defaultTimeout':    300,
 }
 
